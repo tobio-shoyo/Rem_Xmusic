@@ -10,6 +10,7 @@ from rich.console import Console
 from rich.table import Table
 from youtubesearchpython import VideosSearch
 
+
 from Yukki import (
     ASSID, 
     ASSMENTION, 
